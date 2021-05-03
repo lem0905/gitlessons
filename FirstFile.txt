@@ -1,2 +1,2 @@
 This is my first file
-The third line added locally
+The second line is added by Eric and added locally
